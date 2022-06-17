@@ -76,15 +76,15 @@ portfolio-home-items:
 portfolio-label:
 - {
     title : "COMPETITION",
-    type : "design"
+    type : "comp"
   }
 - {
     title : "HACKING",
-    type : "branding"
+    type : "hack"
   }
 - {
     title : "APPS/BOTS",
-    type : "illustration"
+    type : "app"
   }
 
 portfolio-items:
@@ -104,37 +104,32 @@ portfolio-items:
     portfolio-type:
       - type: "illustration"
       
+  - image : "assets/images/portfolio/item-4.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-5.png"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
+      
   - image : "assets/images/portfolio/item-6.png"
     url: "#"
     portfolio-type:
       - type: "design"
+      
+  - image : "assets/images/portfolio/item-7.png"
+    url: "#"
+    portfolio-type:
       - type: "branding"
       
   - image : "assets/images/portfolio/item-8.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
       - type: "design"
       - type: "illustration"
       - type: "branding"
-      
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
       
 
