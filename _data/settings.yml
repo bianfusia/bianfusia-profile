@@ -26,7 +26,12 @@ skills-title: Skills
 skills:
 - {name: Mobile Forensics, color: '#fdb157', value: '90%'}
 - {name: Computer Forensics, color: '#9473e6', value: '90%'}
-
+- {name: Python Programming, color: '#bdecf6', value: '80%'}
+- {name: Javascript Programming, color: '#ffbcaa', value: '70%'}
+- {name: SQL, color: '#ffbcaa', value: '60%'}
+- {name: RPA, color: '#ffbcaa', value: '60%'}
+- {name: Burpsuite, color: '#ffbcaa', value: '50%'}
+- {name: Metasploit, color: '#ffbcaa', value: '40%'}
 
 #-------------------------------
 # Exprerience Section
@@ -45,7 +50,6 @@ education-title: Education
 education:
 - {name: Bachelor of Science in Marketing, date: '2018', organization: 'Singapore University of Social Sciences'}
 - {name: Diploma in Business Management, date: '2011', organization: 'Nanyang Polytechnic'}
-- {name: GCE 'O' Level, date: '2007', organization: 'First Toa Payoh Secondary School'}
 
 #-------------------------------
 # Portfolio (Section and Page)
