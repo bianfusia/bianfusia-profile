@@ -12,7 +12,6 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
 - {name: About, link: '/bianfusia-profile/about'}
-- {name: Blog, link: '/bianfusia-profile/blog'}
 - {name: Portfolio, link: '/bianfusia-profile/portfolio'}
 - {name: Contact, link: '/bianfusia-profile/contact'}
 
@@ -39,13 +38,6 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 hero:
   hero-title: Hi! I’m <br> Christoher <br> UX designer
-
-social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
-
 
 #-------------------------------
 # About (Section and Page)
