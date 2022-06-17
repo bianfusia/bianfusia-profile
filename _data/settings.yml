@@ -89,43 +89,43 @@ portfolio-label:
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://t.me/Dobbyelf_bot"
     portfolio-type:
      - type: "app"
       
   - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://t.me/ekittens_bot"
     portfolio-type:
       - type: "app"
       
   - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "https://t.me/blackjacksg_bot"
     portfolio-type:
       - type: "app"
       
   - image : "assets/images/portfolio/item-4.png"
-    url: "#"
+    url: "https://play.google.com/store/apps/details?id=xyz.beeeatant.sis"
     portfolio-type:
       - type: "app"
       
   - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+    url: "https://tryhackme.com/p/bianfusia"
     portfolio-type:
       - type: "hack"
       - type: "comp"
       
   - image : "assets/images/portfolio/item-6.png"
-    url: "#"
+    url: "https://www.codingame.com/profile/221413db467dadf86cd7805e40c30d9d6046083"
     portfolio-type:
       - type: "comp"
       
   - image : "assets/images/portfolio/item-7.png"
-    url: "#"
+    url: "https://hackerone.com/bianfusia?type=user"
     portfolio-type:
       - type: "hack"
       
   - image : "assets/images/portfolio/item-8.png"
-    url: "#"
+    url: "https://t.me/bridgesg_bot"
     portfolio-type:
       - type: "app"
       
