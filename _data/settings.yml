@@ -90,8 +90,8 @@ portfolio-label:
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
     url: "https://t.me/Dobbyelf_bot"
-    portfolio-type:
-     - type: "apps"
+    #portfolio-type:
+    # - type: "apps"
       
   - image : "assets/images/portfolio/item-2.png"
     url: "https://t.me/ekittens_bot"
@@ -128,5 +128,6 @@ portfolio-items:
     url: "https://tryhackme.com/p/bianfusia"
     portfolio-type:
       - type: "hack"
+      - type: "comp"
       
 
