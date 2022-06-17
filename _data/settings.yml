@@ -75,15 +75,15 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
+    title : "COMPETITION",
     type : "design"
   }
 - {
-    title : "BRANDING",
+    title : "HACKING",
     type : "branding"
   }
 - {
-    title : "ILLUSTRATION",
+    title : "APPS/BOTS",
     type : "illustration"
   }
 
