@@ -1,20 +1,20 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Bianfusia
 logo: 
-author: themefisher
+author: bianfusia
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+email: bianfusia@gmail.com
+#phone: +880 2544 658 256
+#address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
-- {name: Portfolio, link: '/portfolio'}
-- {name: Contact, link: '/contact'}
+- {name: About, link: '/bianfusia-profile/about'}
+- {name: Blog, link: '/bianfusia-profile/blog'}
+- {name: Portfolio, link: '/bianfusia-profile/portfolio'}
+- {name: Contact, link: '/bianfusia-profile/contact'}
 
 
 #-------------------------------
