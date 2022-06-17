@@ -27,10 +27,10 @@ skills:
 - {name: Mobile Forensics, color: '#fdb157', value: '90%'}
 - {name: Computer Forensics, color: '#9473e6', value: '90%'}
 - {name: Python Programming, color: '#bdecf6', value: '80%'}
-- {name: Javascript Programming, color: '#ffbcaa', value: '70%'}
-- {name: SQL, color: '#ffbcaa', value: '60%'}
-- {name: RPA, color: '#ffbcaa', value: '60%'}
-- {name: Burpsuite, color: '#ffbcaa', value: '50%'}
+- {name: Javascript Programming, color: '#fff700', value: '70%'}
+- {name: SQL, color: '#fff700', value: '60%'}
+- {name: RPA, color: '#bdecf6', value: '60%'}
+- {name: Burpsuite, color: '#9473e6', value: '50%'}
 - {name: Metasploit, color: '#ffbcaa', value: '40%'}
 
 #-------------------------------
