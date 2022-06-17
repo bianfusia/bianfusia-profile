@@ -75,59 +75,66 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "COMPETITIONS",
-    type : "comp"
+    title : "UI/UX Design",
+    type : "design"
   }
 - {
-    title : "HACKING",
-    type : "hack"
+    title : "BRANDING",
+    type : "branding"
   }
 - {
-    title : "APPS",
-    type : "apps"
+    title : "ILLUSTRATION",
+    type : "illustration"
   }
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "https://t.me/Dobbyelf_bot"
-    #portfolio-type:
-    # - type: "apps"
+    url: "#"
+    portfolio-type:
+     - type: "design"
+     - type: "illustration"
       
   - image : "assets/images/portfolio/item-2.png"
-    url: "https://t.me/ekittens_bot"
+    url: "#"
     portfolio-type:
-      - type: "apps"
-      
-   - image : "assets/images/portfolio/item-7.png"
-    url: "https://hackerone.com/bianfusia?type=user"
-    portfolio-type:
-      - type: "hack"
-
+      - type: "branding"
       
   - image : "assets/images/portfolio/item-3.png"
-    url: "https://t.me/blackjacksg_bot"
+    url: "#"
     portfolio-type:
-      - type: "apps"
-      
-   - image : "assets/images/portfolio/item-4.png"
-    url: "https://play.google.com/store/apps/details?id=xyz.beeeatant.sis"
-    portfolio-type:
-      - type: "apps"
+      - type: "illustration"
       
   - image : "assets/images/portfolio/item-6.png"
-    url: "https://www.codingame.com/profile/221413db467dadf86cd7805e40c30d9d6046083"
+    url: "#"
     portfolio-type:
-      - type: "comp"
+      - type: "design"
+      - type: "branding"
       
   - image : "assets/images/portfolio/item-8.png"
-    url: "https://t.me/bridgesg_bot"
+    url: "#"
     portfolio-type:
-      - type: "apps"
+      - type: "illustration"
       
   - image : "assets/images/portfolio/item-5.png"
-    url: "https://tryhackme.com/p/bianfusia"
+    url: "#"
     portfolio-type:
-      - type: "hack"
-      - type: "comp"
+      - type: "design"
+      
+  - image : "assets/images/portfolio/item-1.png"
+    url: "#"
+    portfolio-type:
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-3.png"
+    url: "#"
+    portfolio-type:
+      - type: "design"
+      - type: "illustration"
+      - type: "branding"
+      
+  - image : "assets/images/portfolio/item-7.png"
+    url: "#"
+    portfolio-type:
+      - type: "illustration"
       
 
