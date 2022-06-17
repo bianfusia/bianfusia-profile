@@ -1,5 +1,5 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/bianfusia-profile" # the subpath of your site, e.g. /blog
+url: "https://github.com/bianfusia" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
