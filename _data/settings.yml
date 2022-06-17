@@ -56,84 +56,78 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image : "assets/images/portfolio/item-7.png"
+    url: "https://hackerone.com/bianfusia?type=user"
     
   - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://t.me/ekittens_bot"
     
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+  - image : "assets/images/portfolio/item-6.png"
+    url: "https://www.codingame.com/profile/221413db467dadf86cd7805e40c30d9d6046083"
     
   - image : "assets/images/portfolio/item-4.png"
-    url: "#"
+    url: "https://play.google.com/store/apps/details?id=xyz.beeeatant.sis"
     
   - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+    url: "https://tryhackme.com/p/bianfusia"
 
 
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
-    type : "design"
+    title : "COMPETITIONS",
+    type : "comp"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "HACKING",
+    type : "hack"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "APPS",
+    type : "apps"
   }
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://t.me/Dobbyelf_bot"
     portfolio-type:
-     - type: "design"
-     - type: "illustration"
+     - type: "apps"
       
   - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://t.me/ekittens_bot"
     portfolio-type:
-      - type: "branding"
+      - type: "apps"
+      
+   - image : "assets/images/portfolio/item-7.png"
+    url: "https://hackerone.com/bianfusia?type=user"
+    portfolio-type:
+      - type: "hack"
+
       
   - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "https://t.me/blackjacksg_bot"
     portfolio-type:
-      - type: "illustration"
+      - type: "apps"
+      
+   - image : "assets/images/portfolio/item-4.png"
+    url: "https://play.google.com/store/apps/details?id=xyz.beeeatant.sis"
+    portfolio-type:
+      - type: "apps"
       
   - image : "assets/images/portfolio/item-6.png"
-    url: "#"
+    url: "https://www.codingame.com/profile/221413db467dadf86cd7805e40c30d9d6046083"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "comp"
       
   - image : "assets/images/portfolio/item-8.png"
-    url: "#"
+    url: "https://t.me/bridgesg_bot"
     portfolio-type:
-      - type: "illustration"
+      - type: "apps"
       
   - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+    url: "https://tryhackme.com/p/bianfusia"
     portfolio-type:
-      - type: "design"
+      - type: "comp"
+      -type: "hack"
       
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
 
