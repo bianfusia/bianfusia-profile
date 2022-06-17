@@ -127,7 +127,6 @@ portfolio-items:
   - image : "assets/images/portfolio/item-5.png"
     url: "https://tryhackme.com/p/bianfusia"
     portfolio-type:
-      - type: "comp"
       - type: "hack"
       
 
